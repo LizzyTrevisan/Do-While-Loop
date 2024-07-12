@@ -16,7 +16,7 @@ int main()
 
         do {//loop will not be executed once the input is 0
             cout << "Enter a number: ";
-            cin >> input; \
+            cin >> input;
                 if (input != 0) {
                     sum += input;
                 }
