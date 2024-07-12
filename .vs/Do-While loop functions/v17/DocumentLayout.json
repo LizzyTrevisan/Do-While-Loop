@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leizi\\source\\repos\\Do-While loop functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBB5E8A-8BD6-4FB9-93DB-6C2705C632B9}|Do-While loop functions.vcxproj|C:\\Users\\leizi\\source\\repos\\Do-While loop functions\\Do-While loop functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FBB5E8A-8BD6-4FB9-93DB-6C2705C632B9}|Do-While loop functions.vcxproj|solutionrelative:Do-While loop functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Do-While loop functions.cpp",
+              "DocumentMoniker": "C:\\Users\\leizi\\source\\repos\\Do-While loop functions\\Do-While loop functions.cpp",
+              "RelativeDocumentMoniker": "Do-While loop functions.cpp",
+              "ToolTip": "C:\\Users\\leizi\\source\\repos\\Do-While loop functions\\Do-While loop functions.cpp",
+              "RelativeToolTip": "Do-While loop functions.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T20:32:41.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
